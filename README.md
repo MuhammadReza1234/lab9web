@@ -357,7 +357,7 @@ File utama dan berfungsi sebagai wadah untuk memanggil sub-file di beberapa dire
 
 ### Output
 
-![Screenshot (513)](https://github.com/rniarzz/lab9web/assets/115542704/936cacc0-7ad5-4826-9f97-f305e2b9b68f)
+<img width="910" alt="1" src="https://github.com/MuhammadReza1234/lab9web/assets/115516607/c01c9e60-91fc-4ed1-8373-ef7588d06acf">
 
 #### Tambah barang
 
